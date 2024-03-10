@@ -5,10 +5,9 @@
     "description": "An API for Users API",
     "version": "1.0.0"
   },
-  "host": "https://project1-bbu0.onrender.com",
+  "host": "project1-bbu0.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
