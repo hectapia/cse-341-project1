@@ -1,5 +1,4 @@
 const router = require('express').Router();
-
 router.use('/', require('./swagger'));
 
 router.get('/', (req, res) => {
